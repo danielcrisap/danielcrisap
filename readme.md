@@ -11,6 +11,6 @@
 I'm Daniel Cristian, graduated in Computer Networks. I am passionate about technologies and open source.
 
 - 🔭 I’m currently working as an SRE/DevOps Engineer
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning Java, Data Structures and Algorithms
 - 💬 Hobbies : Gaming and watching movies.
 - ⚡ Languages: Python3, Bash
