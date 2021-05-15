@@ -10,12 +10,12 @@
 
  I'm passionate about technologies and graduated in Computer Networks.
 
-- 💻 Currently working as an SRE/DevOps Engineer at PicPay
+- 💻 Currently working as an SRE at Alice
 - :video_game:  Hobbies : Gaming and watching movies.
 - ⚡ Languages Python, Bash and learning Java
 - :telescope: Background in Linux servers, Nginx, networking and Cloud environments 
 - :blue_book: AWS Certified Developer - Associate
-- :closed_lock_with_key: Infrastructure as code (Docker, Ansible and Terraform)
+- :closed_lock_with_key: Infrastructure as code (Ansible and Terraform)
 - :construction_worker: Building CI/CD pipeline (Jenkins and CircleCI)
 - :satellite: Experience setting up Reserve/Forward Proxy, Load Balancers, Caching server and WebServers (Apache, Nginx, and Tomcat)
 - :eyes: Troubleshooting of applications as Java, Python, Node.JS, Ruby and other programming languages. 
