@@ -12,8 +12,8 @@
 
 - 💻 Currently working as a Sr. System Engineer at [Nubank](https://nubank.com.br/)
 - :video_game:  Hobbies : Gaming, and watching movies.
-- ⚡ Languages Python, Bash and learning Clojure
-- :anchor: Strong knowledge of Kubernetes Clusters, Observability, and Cloud Environments
+- ⚡ Languages Python, Bash, and learning Clojure
+- :ship: Strong knowledge of Kubernetes Clusters, Observability, and Cloud Environments
 - :telescope: Background in Linux Servers, Nginx, and Networking
 - :blue_book: AWS Certified Developer - Associate
 - :closed_lock_with_key: Infrastructure as code (Ansible and Terraform)
