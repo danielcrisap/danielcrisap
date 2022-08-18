@@ -10,13 +10,13 @@
 
  I'm passionate about technologies and graduated in Computer Networks.
 
-- 💻 Currently working as an System Engineer at [Nubank](https://nubank.com.br/)
-- :video_game:  Hobbies : Gaming and watching movies.
+- 💻 Currently working as a Sr. System Engineer at [Nubank](https://nubank.com.br/)
+- :video_game:  Hobbies : Gaming, and watching movies.
 - ⚡ Languages Python, Bash and learning Clojure
-- :telescope: Background in Linux servers, Nginx, networking and Cloud environments 
+- :anchor: Strong knowledge of Kubernetes Clusters, Observability, and Cloud Environments
+- :telescope: Background in Linux Servers, Nginx, and Networking
 - :blue_book: AWS Certified Developer - Associate
-- :ship: Container Orchestration with Kubernetes (EKS, GKE)
 - :closed_lock_with_key: Infrastructure as code (Ansible and Terraform)
-- :construction_worker: Building CI/CD pipeline (Tekton, CircleCI and Jenkins)
-- :satellite: Experience setting up Reserve/Forward Proxy, Load Balancers, Caching server and WebServers (Apache, Nginx, and Tomcat)
-- :eyes: Troubleshooting of applications as Java, Python, Node.JS, Ruby and other programming languages. 
+- :construction_worker: Building CI/CD pipeline (Tekton, CircleCI, GitHub Action, and Jenkins)
+- :satellite: Experience setting up Reserve/Forward Proxy, Load Balancers, Caching server, and WebServers (Apache, Nginx, and Tomcat)
+- :eyes: Troubleshooting of applications such as Java, Python, Node.JS, Ruby, and other programming languages. 
